@@ -1,5 +1,5 @@
 (function reloadWithAlert() {
-    const url = "https://certificacioninternacional.mijp.gob.ve/paginas/CU_login/";  // URL que quieres monitorear
+    const url = "https://google.com";  // URL que quieres monitorear
     const youtubeUrl = "https://www.youtube.com/watch?v=ZemZ0krQ9Cc";  // URL de la canción de YouTube
     let attemptCount = 0;  // Contador de intentos fallidos
   
